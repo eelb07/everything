@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Seung A’s Blog`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "Seung A’s Blog",
     description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
