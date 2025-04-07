@@ -108,4 +108,14 @@ const StyledWrapper = styled.div`
     padding: 1.5px 0 !important;
     white-space: pre-wrap !important;
   }
+
+  .notion {
+    font-size: 13.5px !important;
+    line-height: 1.4 !important;
+  }
+
+  .notion-h3 {
+    font-size: 1.1em !important;
+    margin-top: 0.8em !important;
+  }
 `
