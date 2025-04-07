@@ -105,7 +105,7 @@ const StyledWrapper = styled.div`
   }
 
   .notion-list li {
-    padding: 3px 0 !important;
+    padding: 1.5px 0 !important;
     white-space: pre-wrap !important;
   }
 `
