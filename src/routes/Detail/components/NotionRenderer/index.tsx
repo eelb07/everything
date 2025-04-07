@@ -78,15 +78,34 @@ const NotionRenderer: FC<Props> = ({ recordMap }) => {
 
 export default NotionRenderer
 
+// const StyledWrapper = styled.div`
+//   /* // TODO: why render? */
+//   .notion-collection-page-properties {
+//     display: none !important;
+//   }
+//   .notion-page {
+//     padding: 0;
+//   }
+//   .notion-list {
+//     width: 100%;
+//   }
+// `
 const StyledWrapper = styled.div`
   /* // TODO: why render? */
   .notion-collection-page-properties {
     display: none !important;
   }
+
   .notion-page {
     padding: 0;
   }
+
   .notion-list {
     width: 100%;
+  }
+
+  .notion-list li {
+    padding: 3px 0 !important;
+    white-space: pre-wrap !important;
   }
 `
