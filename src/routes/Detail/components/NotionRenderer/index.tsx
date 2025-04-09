@@ -118,4 +118,8 @@ const StyledWrapper = styled.div`
     font-size: 1.1em !important;
     margin-top: 0.8em !important;
   }
+
+  .notion-quote {
+    font-size: 13.7px !important;
+  }
 `
