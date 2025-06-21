@@ -105,12 +105,12 @@ const StyledWrapper = styled.div`
   }
 
   .notion-list li {
-    padding: 2.5px 0 !important;
+    padding: 2px 0 !important;
     white-space: pre-wrap !important;
   }
 
   .notion {
-    font-size: 13.5px !important;
+    font-size: 15px !important;
     line-height: 1.8 !important; 
     font-family: 'GowunBatang-Regular', sans-serif !important;
   }
