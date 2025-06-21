@@ -112,6 +112,7 @@ const StyledWrapper = styled.div`
   .notion {
     font-size: 13.5px !important;
     line-height: 1.4 !important;
+    font-family: 'NEXON Lv1 Gothic OTF', sans-serif !important;
   }
 
   .notion-h3 {
