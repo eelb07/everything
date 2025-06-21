@@ -111,7 +111,7 @@ const StyledWrapper = styled.div`
 
   .notion {
     font-size: 13.5px !important;
-    line-height: 1.4 !important;
+    line-height: 2 !important; 
     font-family: 'GowunBatang-Regular', sans-serif !important;
   }
 

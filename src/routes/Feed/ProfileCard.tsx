@@ -48,11 +48,12 @@ const StyledWrapper = styled.div`
     .top {
       position: relative;
       width: 100%;
-      &:after {
-        content: "";
-        display: block;
-        padding-bottom: 100%;
-      }
+      height: auto;
+      // &:after {
+      //   content: "";
+      //   display: block;
+      //   padding-bottom: 100%;
+      // }
     }
     .mid {
       display: flex;
