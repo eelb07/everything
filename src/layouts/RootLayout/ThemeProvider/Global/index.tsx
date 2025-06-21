@@ -9,8 +9,8 @@ export const Global = () => {
     <_Global
       styles={css`
         @font-face {
-          font-family: 'NEXON Lv1 Gothic OTF';
-          src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON%20Lv1%20Gothic%20OTF.woff') format('woff');
+          font-family: 'GowunBatang-Regular';
+          src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff') format('woff');
           font-weight: normal;
           font-style: normal;
         }
@@ -20,7 +20,7 @@ export const Global = () => {
           padding: 0;
           color: ${theme.colors.gray12};
           background-color: ${theme.colors.gray2};
-          font-family: 'NEXON Lv1 Gothic OTF', sans-serif;
+          font-family: 'GowunBatang-Regular', sans-serif;
           font-weight: normal;
           font-style: normal;
         }
