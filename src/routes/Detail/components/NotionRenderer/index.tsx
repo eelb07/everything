@@ -110,7 +110,7 @@ const StyledWrapper = styled.div`
   }
 
   .notion {
-    font-size: 15px !important;
+    font-size: 13px !important;
     line-height: 1.8 !important; 
     font-family: 'GowunBatang-Regular', sans-serif !important;
   }
