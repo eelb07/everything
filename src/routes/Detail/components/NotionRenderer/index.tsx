@@ -110,7 +110,7 @@ const StyledWrapper = styled.div`
   }
 
   .notion {
-    font-size: 11.5px !important;
+    font-size: 12px !important;
     line-height: 1.3 !important; 
     font-family: 'GowunBatang-Regular', sans-serif !important;
   }
@@ -123,4 +123,9 @@ const StyledWrapper = styled.div`
   .notion-quote {
     font-size: 11.5px !important;
   }
+  
+  .notion-simple-table-cell {
+    font-size: 12px !important;  
+  }
+
 `
