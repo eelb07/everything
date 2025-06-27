@@ -105,13 +105,13 @@ const StyledWrapper = styled.div`
   }
 
   .notion-list li {
-    padding: 2px 0 !important;
+    padding: 1.6px 0 !important;
     white-space: pre-wrap !important;
   }
 
   .notion {
-    font-size: 13px !important;
-    line-height: 1.8 !important; 
+    font-size: 11.5px !important;
+    line-height: 1.3 !important; 
     font-family: 'GowunBatang-Regular', sans-serif !important;
   }
 
@@ -121,6 +121,6 @@ const StyledWrapper = styled.div`
   }
 
   .notion-quote {
-    font-size: 13.7px !important;
+    font-size: 11.5px !important;
   }
 `
