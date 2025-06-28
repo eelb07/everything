@@ -128,4 +128,8 @@ const StyledWrapper = styled.div`
     font-size: 12px !important;  
   }
 
+  .notion-table-of-contents {
+    font-size: 12px !important;  
+  }
+
 `
